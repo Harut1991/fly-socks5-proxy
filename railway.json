@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "PORT": "1080"
+    }
+  },
+  "deploy": {
+    "startCommand": "/entrypoint.sh"
+  }
+}
